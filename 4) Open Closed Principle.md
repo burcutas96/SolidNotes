@@ -1,4 +1,4 @@
-# Open Closed Principle (Açık / Kapalı) Prensibi Nedir?
+# Open Closed Principle (Açık / Kapalı Prensibi) Nedir?
 
 <p>
 Open closed principle, oop tasarımlarında bir sınıfın gereksinimler doğrultusunda değiştirmeye gerek duyulmaksızın genişletilebilir bir şekilde tasarlanmasını savunan bir prensiptir.
